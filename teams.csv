@@ -1,0 +1,241 @@
+team,id,league,league_id,abbreviation,debut year,division,division id,level,level id,organization,org ID,venue,venue id
+Athletics,133,American League,103,ATH,1901,American League West,200,Major League Baseball,1,Athletics,133,Sutter Health Park,2529
+Pittsburgh Pirates,134,National League,104,PIT,1882,National League Central,205,Major League Baseball,1,Pittsburgh Pirates,134,PNC Park,31
+San Diego Padres,135,National League,104,SD,1968,National League West,203,Major League Baseball,1,San Diego Padres,135,Petco Park,2680
+Seattle Mariners,136,American League,103,SEA,1977,American League West,200,Major League Baseball,1,Seattle Mariners,136,T-Mobile Park,680
+San Francisco Giants,137,National League,104,SF,1883,National League West,203,Major League Baseball,1,San Francisco Giants,137,Oracle Park,2395
+St. Louis Cardinals,138,National League,104,STL,1892,National League Central,205,Major League Baseball,1,St. Louis Cardinals,138,Busch Stadium,2889
+Tampa Bay Rays,139,American League,103,TB,1996,American League East,201,Major League Baseball,1,Tampa Bay Rays,139,George M. Steinbrenner Field,2523
+Texas Rangers,140,American League,103,TEX,1961,American League West,200,Major League Baseball,1,Texas Rangers,140,Globe Life Field,5325
+Toronto Blue Jays,141,American League,103,TOR,1977,American League East,201,Major League Baseball,1,Toronto Blue Jays,141,Rogers Centre,14
+Minnesota Twins,142,American League,103,MIN,1901,American League Central,202,Major League Baseball,1,Minnesota Twins,142,Target Field,3312
+Philadelphia Phillies,143,National League,104,PHI,1883,National League East,204,Major League Baseball,1,Philadelphia Phillies,143,Citizens Bank Park,2681
+Atlanta Braves,144,National League,104,ATL,1871,National League East,204,Major League Baseball,1,Atlanta Braves,144,Truist Park,4705
+Chicago White Sox,145,American League,103,CWS,1901,American League Central,202,Major League Baseball,1,Chicago White Sox,145,Rate Field,4
+Miami Marlins,146,National League,104,MIA,1991,National League East,204,Major League Baseball,1,Miami Marlins,146,loanDepot park,4169
+New York Yankees,147,American League,103,NYY,1903,American League East,201,Major League Baseball,1,New York Yankees,147,Yankee Stadium,3313
+Milwaukee Brewers,158,National League,104,MIL,1968,National League Central,205,Major League Baseball,1,Milwaukee Brewers,158,American Family Field,32
+Los Angeles Angels,108,American League,103,LAA,1961,American League West,200,Major League Baseball,1,Los Angeles Angels,108,Angel Stadium,1
+Arizona Diamondbacks,109,National League,104,AZ,1996,National League West,203,Major League Baseball,1,Arizona Diamondbacks,109,Chase Field,15
+Baltimore Orioles,110,American League,103,BAL,1901,American League East,201,Major League Baseball,1,Baltimore Orioles,110,Oriole Park at Camden Yards,2
+Boston Red Sox,111,American League,103,BOS,1901,American League East,201,Major League Baseball,1,Boston Red Sox,111,Fenway Park,3
+Chicago Cubs,112,National League,104,CHC,1874,National League Central,205,Major League Baseball,1,Chicago Cubs,112,Wrigley Field,17
+Cincinnati Reds,113,National League,104,CIN,1882,National League Central,205,Major League Baseball,1,Cincinnati Reds,113,Great American Ball Park,2602
+Cleveland Guardians,114,American League,103,CLE,1901,American League Central,202,Major League Baseball,1,Cleveland Guardians,114,Progressive Field,5
+Colorado Rockies,115,National League,104,COL,1992,National League West,203,Major League Baseball,1,Colorado Rockies,115,Coors Field,19
+Detroit Tigers,116,American League,103,DET,1901,American League Central,202,Major League Baseball,1,Detroit Tigers,116,Comerica Park,2394
+Houston Astros,117,American League,103,HOU,1962,American League West,200,Major League Baseball,1,Houston Astros,117,Daikin Park,2392
+Kansas City Royals,118,American League,103,KC,1968,American League Central,202,Major League Baseball,1,Kansas City Royals,118,Kauffman Stadium,7
+Los Angeles Dodgers,119,National League,104,LAD,1884,National League West,203,Major League Baseball,1,Los Angeles Dodgers,119,Dodger Stadium,22
+Washington Nationals,120,National League,104,WSH,1968,National League East,204,Major League Baseball,1,Washington Nationals,120,Nationals Park,3309
+New York Mets,121,National League,104,NYM,1962,National League East,204,Major League Baseball,1,New York Mets,121,Citi Field,3289
+Toledo Mud Hens,512,International League,117,TOL,1932,International League West,221,Triple-A,11,Detroit Tigers,Detroit Tigers,Fifth Third Field,2767
+Lehigh Valley IronPigs,1410,International League,117,LHV,2008,International League East,219,Triple-A,11,Philadelphia Phillies,Philadelphia Phillies,Coca-Cola Park,3230
+Iowa Cubs,451,International League,117,IOW,1969,International League West,221,Triple-A,11,Chicago Cubs,Chicago Cubs,Principal Park,2844
+Reno Aces,2310,Pacific Coast League,112,RNO,2009,Pacific Coast League West,231,Triple-A,11,Arizona Diamondbacks,Arizona Diamondbacks,Greater Nevada Field,3789
+Las Vegas Aviators,400,Pacific Coast League,112,LV,1983,Pacific Coast League West,231,Triple-A,11,Athletics,Athletics,Las Vegas Ballpark,5355
+Tacoma Rainiers,529,Pacific Coast League,112,TAC,1960,Pacific Coast League West,231,Triple-A,11,Seattle Mariners,Seattle Mariners,Cheney Stadium,2745
+Scranton/Wilkes-Barre RailRiders,531,International League,117,SWB,1989,International League East,219,Triple-A,11,New York Yankees,New York Yankees,PNC Field,2797
+Worcester Red Sox,533,International League,117,WOR,1970,International League East,219,Triple-A,11,Boston Red Sox,Boston Red Sox,Polar Park,5410
+Albuquerque Isotopes,342,Pacific Coast League,112,ABQ,1946,Pacific Coast League East,233,Triple-A,11,Colorado Rockies,Colorado Rockies,Isotopes Park,2683
+Rochester Red Wings,534,International League,117,ROC,1927,International League East,219,Triple-A,11,Washington Nationals,Washington Nationals,Innovative Field,2773
+Omaha Storm Chasers,541,International League,117,OMA,1969,International League West,221,Triple-A,11,Kansas City Royals,Kansas City Royals,Werner Park,4271
+Louisville Bats,416,International League,117,LOU,1982,International League West,221,Triple-A,11,Cincinnati Reds,Cincinnati Reds,Louisville Slugger Field,2724
+Indianapolis Indians,484,International League,117,IND,1932,International League West,221,Triple-A,11,Pittsburgh Pirates,Pittsburgh Pirates,Victory Field,2858
+Round Rock Express,102,Pacific Coast League,112,RR,2000,Pacific Coast League East,233,Triple-A,11,Texas Rangers,Texas Rangers,Dell Diamond,2528
+Buffalo Bisons,422,International League,117,BUF,1927,International League East,219,Triple-A,11,Toronto Blue Jays,Toronto Blue Jays,Sahlen Field,2756
+El Paso Chihuahuas,4904,Pacific Coast League,112,ELP,2014,Pacific Coast League East,233,Triple-A,11,San Diego Padres,San Diego Padres,Southwest University Park,4669
+St. Paul Saints,1960,International League,117,STP,1993,International League West,221,Triple-A,11,Minnesota Twins,Minnesota Twins,CHS Field,5472
+Syracuse Mets,552,International League,117,SYR,1927,International League East,219,Triple-A,11,New York Mets,New York Mets,NBT Bank Stadium,2823
+Sacramento River Cats,105,Pacific Coast League,112,SAC,2000,Pacific Coast League West,231,Triple-A,11,San Francisco Giants,San Francisco Giants,Sutter Health Park,2529
+Durham Bulls,234,International League,117,DUR,1945,International League East,219,Triple-A,11,Tampa Bay Rays,Tampa Bay Rays,Durham Bulls Athletic Park,2541
+Memphis Redbirds,235,International League,117,MEM,1984,International League West,221,Triple-A,11,St. Louis Cardinals,St. Louis Cardinals,AutoZone Park,2542
+Nashville Sounds,556,International League,117,NAS,1978,International League West,221,Triple-A,11,Milwaukee Brewers,Milwaukee Brewers,First Horizon Park,4715
+Charlotte Knights,494,International League,117,CLT,1954,International League East,219,Triple-A,11,Chicago White Sox,Chicago White Sox,Truist Field,4670
+Oklahoma City Comets,238,Pacific Coast League,112,OKC,1962,Pacific Coast League East,233,Triple-A,11,Los Angeles Dodgers,Los Angeles Dodgers,Chickasaw Bricktown Ballpark,2843
+Gwinnett Stripers,431,International League,117,GWN,1966,International League West,221,Triple-A,11,Atlanta Braves,Atlanta Braves,Coolray Field,3810
+Salt Lake Bees,561,Pacific Coast League,112,SL,1994,Pacific Coast League West,231,Triple-A,11,Los Angeles Angels,Los Angeles Angels,The Ballpark at America First Square,6135
+Jacksonville Jumbo Shrimp,564,International League,117,JAX,1970,International League East,219,Triple-A,11,Miami Marlins,Miami Marlins,Vystar Ballpark,2852
+Norfolk Tides,568,International League,117,NOR,1961,International League East,219,Triple-A,11,Baltimore Orioles,Baltimore Orioles,Harbor Park,2781
+Sugar Land Space Cowboys,5434,Pacific Coast League,112,SUG,2012,Pacific Coast League East,233,Triple-A,11,Houston Astros,Houston Astros,Constellation Field,5421
+Columbus Clippers,445,International League,117,COL,1977,International League West,221,Triple-A,11,Cleveland Guardians,Cleveland Guardians,Huntington Park,3970
+Altoona Curve,452,Eastern League,113,ALT,1999,Eastern League Southwest,213,Double-A,12,Pittsburgh Pirates,Pittsburgh Pirates,Peoples Natural Gas Field,2733
+Tulsa Drillers,260,Texas League,109,TUL,1977,Texas League North,241,Double-A,12,Los Angeles Dodgers,Los Angeles Dodgers,ONEOK Field,4149
+Northwest Arkansas Naturals,1350,Texas League,109,NWA,2008,Texas League North,241,Double-A,12,Kansas City Royals,Kansas City Royals,Arvest Ballpark,3329
+Reading Fightin Phils,522,Eastern League,113,REA,1952,Eastern League Northeast,212,Double-A,12,Philadelphia Phillies,Philadelphia Phillies,FirstEnergy Stadium,2769
+New Hampshire Fisher Cats,463,Eastern League,113,NH,2004,Eastern League Northeast,212,Double-A,12,Toronto Blue Jays,Toronto Blue Jays,Delta Dental Stadium,2868
+Richmond Flying Squirrels,3410,Eastern League,113,RIC,2010,Eastern League Southwest,213,Double-A,12,San Francisco Giants,San Francisco Giants,The Diamond,2853
+Akron RubberDucks,402,Eastern League,113,AKR,1989,Eastern League Southwest,213,Double-A,12,Cleveland Guardians,Cleveland Guardians,Canal Park,2740
+Biloxi Shuckers,5015,Southern League,111,BLX,2015,Southern League South,240,Double-A,12,Milwaukee Brewers,Milwaukee Brewers,Keesler Federal Park,4960
+Hartford Yard Goats,538,Eastern League,113,HFD,1983,Eastern League Northeast,212,Double-A,12,Colorado Rockies,Colorado Rockies,Dunkin' Park,4985
+Pensacola Blue Wahoos,4124,Southern League,111,PNS,2012,Southern League South,240,Double-A,12,Miami Marlins,Miami Marlins,Blue Wahoos Stadium,4329
+Frisco RoughRiders,540,Texas League,109,FRI,2003,Texas League South,242,Double-A,12,Texas Rangers,Texas Rangers,Riders Field,2755
+Corpus Christi Hooks,482,Texas League,109,CC,1974,Texas League South,242,Double-A,12,Houston Astros,Houston Astros,Whataburger Field,2861
+Portland Sea Dogs,546,Eastern League,113,POR,1994,Eastern League Northeast,212,Double-A,12,Boston Red Sox,Boston Red Sox,Delta Dental Park,2779
+Chesapeake Baysox,418,Eastern League,113,CHE,1993,Eastern League Southwest,213,Double-A,12,Baltimore Orioles,Baltimore Orioles,Prince George's Stadium,2832
+Harrisburg Senators,547,Eastern League,113,HBG,1932,Eastern League Southwest,213,Double-A,12,Washington Nationals,Washington Nationals,FNB Field,2749
+Somerset Patriots,1956,Eastern League,113,SOM,1998,Eastern League Northeast,212,Double-A,12,New York Yankees,New York Yankees,TD Bank Ballpark,5418
+Montgomery Biscuits,421,Southern League,111,MTG,1951,Southern League South,240,Double-A,12,Tampa Bay Rays,Tampa Bay Rays,Montgomery Riverwalk Stadium,2814
+Knoxville Smokies,553,Southern League,111,KNX,1932,Southern League North,239,Double-A,12,Chicago Cubs,Chicago Cubs,Covenant Health Park,6136
+Erie SeaWolves,106,Eastern League,113,ERI,1995,Eastern League Southwest,213,Double-A,12,Detroit Tigers,Detroit Tigers,UPMC Park,2512
+Midland RockHounds,237,Texas League,109,MID,1972,Texas League South,242,Double-A,12,Athletics,Athletics,Momentum Bank Ballpark,2768
+Mississippi Braves,430,Southern League,111,MIS,2005,Southern League South,240,Double-A,12,Atlanta Braves,Atlanta Braves,Trustmark Park,2813
+Rocket City Trash Pandas,559,Southern League,111,RCT,1985,Southern League North,239,Double-A,12,Los Angeles Angels,Los Angeles Angels,Toyota Field,5455
+Chattanooga Lookouts,498,Southern League,111,CHA,1932,Southern League North,239,Double-A,12,Cincinnati Reds,Cincinnati Reds,AT&T Field,2682
+Columbus Clingstones,6325,Southern League,111,COL,2024,Southern League South,240,Double-A,12,Atlanta Braves,Atlanta Braves,Synovus Park,2776
+Birmingham Barons,247,Southern League,111,BIR,1932,Southern League North,239,Double-A,12,Chicago White Sox,Chicago White Sox,Regions Field,4529
+Amarillo Sod Poodles,5368,Texas League,109,AMA,2018,Texas League South,242,Double-A,12,Arizona Diamondbacks,Arizona Diamondbacks,Hodgetown,5415
+Springfield Cardinals,440,Texas League,109,SPR,2005,Texas League North,241,Double-A,12,St. Louis Cardinals,St. Louis Cardinals,Hammons Field,2722
+Binghamton Rumble Ponies,505,Eastern League,113,BNG,1992,Eastern League Northeast,212,Double-A,12,New York Mets,New York Mets,Mirabito Stadium,2820
+Wichita Wind Surge,3898,Texas League,109,WCH,1970,Texas League North,241,Double-A,12,Minnesota Twins,Minnesota Twins,Equity Bank Park,5450
+San Antonio Missions,510,Texas League,109,SA,1946,Texas League South,242,Double-A,12,San Diego Padres,San Diego Padres,Nelson Wolff Stadium,2818
+Arkansas Travelers,574,Texas League,109,ARK,1932,Texas League North,241,Double-A,12,Seattle Mariners,Seattle Mariners,Dickey-Stephens Park,3389
+Bowling Green Hot Rods,2498,South Atlantic League,116,BG,2009,South Atlantic League South,238,High-A,13,Tampa Bay Rays,Tampa Bay Rays,Bowling Green Ballpark,3569
+Winston-Salem Dash,580,South Atlantic League,116,WS,1945,South Atlantic League South,238,High-A,13,Chicago White Sox,Chicago White Sox,Truist Stadium,4089
+Brooklyn Cyclones,453,South Atlantic League,116,BRK,2001,South Atlantic League North,237,High-A,13,New York Mets,New York Mets,Maimonides Park,2795
+West Michigan Whitecaps,582,Midwest League,118,WM,1982,Midwest League East,224,High-A,13,Detroit Tigers,Detroit Tigers,LMCU Ballpark,2765
+Great Lakes Loons,456,Midwest League,118,GL,1995,Midwest League East,224,High-A,13,Los Angeles Dodgers,Los Angeles Dodgers,Dow Diamond,3189
+Fort Wayne TinCaps,584,Midwest League,118,FW,1993,Midwest League East,224,High-A,13,San Diego Padres,San Diego Padres,Parkview Field,3790
+Dayton Dragons,459,Midwest League,118,DAY,2000,Midwest League East,224,High-A,13,Cincinnati Reds,Cincinnati Reds,Day Air Ballpark,2766
+Tri-City Dust Devils,460,Northwest League,126,TRI,2001,Northwest League,126,High-A,13,Los Angeles Angels,Los Angeles Angels,Gesa Stadium,2826
+Eugene Emeralds,461,Northwest League,126,EUG,1955,Northwest League,126,High-A,13,San Francisco Giants,San Francisco Giants,PK Park,4109
+Everett AquaSox,403,Northwest League,126,EVE,1984,Northwest League,126,High-A,13,Seattle Mariners,Seattle Mariners,Funko Field,2762
+Hudson Valley Renegades,537,South Atlantic League,116,HV,1994,South Atlantic League North,237,High-A,13,New York Yankees,New York Yankees,Heritage Financial Park,2757
+Greensboro Grasshoppers,477,South Atlantic League,116,GBO,1945,South Atlantic League North,237,High-A,13,Pittsburgh Pirates,Pittsburgh Pirates,First National Bank Field,2723
+Hillsboro Hops,419,Northwest League,126,HIL,1946,Northwest League,126,High-A,13,Arizona Diamondbacks,Arizona Diamondbacks,Hillsboro Ballpark,4429
+Spokane Indians,486,Northwest League,126,SPO,1946,Northwest League,126,High-A,13,Colorado Rockies,Colorado Rockies,Avista Stadium,2730
+South Bend Cubs,550,Midwest League,118,SB,1988,Midwest League West,225,High-A,13,Chicago Cubs,Chicago Cubs,Four Winds Field,2850
+Aberdeen IronBirds,488,South Atlantic League,116,ABD,2002,South Atlantic League North,237,High-A,13,Baltimore Orioles,Baltimore Orioles,Ripken Stadium,2837
+Wilmington Blue Rocks,426,South Atlantic League,116,WIL,1993,South Atlantic League North,237,High-A,13,Washington Nationals,Washington Nationals,Frawley Stadium,2793
+Beloit Sky Carp,554,Midwest League,118,BEL,1982,Midwest League West,225,High-A,13,Miami Marlins,Miami Marlins,ABC Supply Stadium,5525
+Jersey Shore BlueClaws,427,South Atlantic League,116,JS,2001,South Atlantic League North,237,High-A,13,Philadelphia Phillies,Philadelphia Phillies,ShoreTown Ballpark,2866
+Cedar Rapids Kernels,492,Midwest League,118,CR,1962,Midwest League West,225,High-A,13,Minnesota Twins,Minnesota Twins,Veterans Memorial Stadium,2857
+Greenville Drive,428,South Atlantic League,116,GVL,2005,South Atlantic League South,238,High-A,13,Boston Red Sox,Boston Red Sox,Fluor Field at the West End,3429
+Rome Emperors,432,South Atlantic League,116,ROM,2003,South Atlantic League South,238,High-A,13,Atlanta Braves,Atlanta Braves,AdventHealth Stadium,2851
+Lansing Lugnuts,499,Midwest League,118,LAN,1996,Midwest League East,224,High-A,13,Athletics,Athletics,Jackson Field,2822
+Vancouver Canadians,435,Northwest League,126,VAN,1967,Northwest League,126,High-A,13,Toronto Blue Jays,Toronto Blue Jays,Rogers Field at Nat Bailey Stadium,2817
+Hub City Spartanburgers,6324,South Atlantic League,116,HCS,2024,South Atlantic League South,238,High-A,13,Texas Rangers,Texas Rangers,Fifth Third Park,6134
+Lake County Captains,437,Midwest League,118,LC,2003,Midwest League East,224,High-A,13,Cleveland Guardians,Cleveland Guardians,Classic Auto Group Park,2759
+Quad Cities River Bandits,565,Midwest League,118,QC,1960,Midwest League West,225,High-A,13,Kansas City Royals,Kansas City Royals,Modern Woodmen Park,2790
+Peoria Chiefs,443,Midwest League,118,PEO,1983,Midwest League West,225,High-A,13,St. Louis Cardinals,St. Louis Cardinals,Dozer Park,2821
+Wisconsin Timber Rattlers,572,Midwest League,118,WIS,1962,Midwest League West,225,High-A,13,Milwaukee Brewers,Milwaukee Brewers,Neuroscience Group Field,2771
+Asheville Tourists,573,South Atlantic League,116,ASH,1959,South Atlantic League South,238,High-A,13,Houston Astros,Houston Astros,McCormick Field,2807
+Hickory Crawdads,448,Carolina League,122,HIC,1993,Carolina League South,211,Single-A,14,Texas Rangers,Texas Rangers,L.P. Frans Stadium,2796
+Fayetteville Woodpeckers,3712,Carolina League,122,FAY,1987,Carolina League North,210,Single-A,14,Houston Astros,Houston Astros,SEGRA Stadium,5400
+Daytona Tortugas,450,Florida State League,123,DBT,1946,Florida State League East,214,Single-A,14,Cincinnati Reds,Cincinnati Reds,Jackie Robinson Ballpark,2787
+Modesto Nuts,515,California League,110,MOD,1946,California League North,208,Single-A,14,Seattle Mariners,Seattle Mariners,John Thurman Field,2791
+Fresno Grizzlies,259,California League,110,FRE,1998,California League North,208,Single-A,14,Colorado Rockies,Colorado Rockies,Chukchansi Park,2640
+Visalia Rawhide,516,California League,110,VIS,1946,California League South,209,Single-A,14,Arizona Diamondbacks,Arizona Diamondbacks,Valley Strong Ballpark,2835
+Myrtle Beach Pelicans,521,Carolina League,122,MB,1999,Carolina League South,211,Single-A,14,Chicago Cubs,Chicago Cubs,Pelicans Ballpark,2747
+Tampa Tarpons,587,Florida State League,123,TAM,1994,Florida State League West,215,Single-A,14,New York Yankees,New York Yankees,Yankee Complex Field 2,7250
+Stockton Ports,524,California League,110,STK,1946,California League North,208,Single-A,14,Athletics,Athletics,Banner Island Ballpark,2731
+Rancho Cucamonga Quakes,526,California League,110,RC,1966,California League South,209,Single-A,14,Los Angeles Dodgers,Los Angeles Dodgers,LoanMart Field,2854
+Inland Empire 66ers,401,California League,110,IE,1993,California League South,209,Single-A,14,Los Angeles Angels,Los Angeles Angels,San Manuel Stadium,2728
+Palm Beach Cardinals,279,Florida State League,123,PMB,2003,Florida State League East,214,Single-A,14,St. Louis Cardinals,St. Louis Cardinals,Roger Dean Chevrolet Stadium,2520
+San Jose Giants,476,California League,110,SJ,1947,California League North,208,Single-A,14,San Francisco Giants,San Francisco Giants,Excite Ballpark,2815
+Augusta GreenJackets,478,Carolina League,122,AUG,1946,Carolina League South,211,Single-A,14,Atlanta Braves,Atlanta Braves,SRP Park,5345
+Salem Red Sox,414,Carolina League,122,SAL,1957,Carolina League North,210,Single-A,14,Boston Red Sox,Boston Red Sox,Carilion Clinic Field,2840
+Jupiter Hammerheads,479,Florida State League,123,JUP,1998,Florida State League East,214,Single-A,14,Miami Marlins,Miami Marlins,Roger Dean Chevrolet Stadium,2520
+Lynchburg Hillcats,481,Carolina League,122,LYN,1970,Carolina League North,210,Single-A,14,Cleveland Guardians,Cleveland Guardians,Bank of the James Stadium,2803
+Delmarva Shorebirds,548,Carolina League,122,DEL,1996,Carolina League North,210,Single-A,14,Baltimore Orioles,Baltimore Orioles,Arthur W. Perdue Stadium,2729
+Down East Wood Ducks,485,Carolina League,122,DE,1962,Carolina League North,210,Single-A,14,Texas Rangers,Texas Rangers,Grainger Stadium,2777
+Kannapolis Cannon Ballers,487,Carolina League,122,KAN,1995,Carolina League South,211,Single-A,14,Chicago White Sox,Chicago White Sox,Atrium Health Ballpark,2764
+Lake Elsinore Storm,103,California League,110,LE,1980,California League South,209,Single-A,14,San Diego Padres,San Diego Padres,The Diamond,2516
+Dunedin Blue Jays,424,Florida State League,123,DUN,1987,Florida State League West,215,Single-A,14,Toronto Blue Jays,Toronto Blue Jays,TD Ballpark,2536
+Charleston RiverDogs,233,Carolina League,122,CHS,1973,Carolina League South,211,Single-A,14,Tampa Bay Rays,Tampa Bay Rays,"Joseph P. Riley, Jr. Ballpark",2540
+Fredericksburg Nationals,436,Carolina League,122,FBG,1978,Carolina League North,210,Single-A,14,Washington Nationals,Washington Nationals,Virginia Credit Union Stadium,5520
+Clearwater Threshers,566,Florida State League,123,CLR,1985,Florida State League West,215,Single-A,14,Philadelphia Phillies,Philadelphia Phillies,BayCare Ballpark,2700
+Carolina Mudcats,249,Carolina League,122,CAR,1969,Carolina League North,210,Single-A,14,Milwaukee Brewers,Milwaukee Brewers,Five County Stadium,2625
+Columbia Fireflies,3705,Carolina League,122,COL,1977,Carolina League South,211,Single-A,14,Kansas City Royals,Kansas City Royals,Segra Park,4980
+Lakeland Flying Tigers,570,Florida State League,123,LAK,1960,Florida State League West,215,Single-A,14,Detroit Tigers,Detroit Tigers,Publix Field at Joker Marchant Stadium,2511
+St. Lucie Mets,507,Florida State League,123,SLU,1988,Florida State League East,214,Single-A,14,New York Mets,New York Mets,Clover Park,2856
+Fort Myers Mighty Mussels,509,Florida State League,123,FTM,1992,Florida State League West,215,Single-A,14,Minnesota Twins,Minnesota Twins,Lee Health Sports Complex,2862
+Bradenton Marauders,3390,Florida State League,123,BRD,2010,Florida State League West,215,Single-A,14,Pittsburgh Pirates,Pittsburgh Pirates,LECOM Park,2526
+Tri-City ValleyCats,577,New York-Penn League,127,TRI,2002,New York-Penn League Stedler,230,Class A Short Season,15,Houston Astros,Houston Astros,Joseph L. Bruno Stadium,2792
+Auburn Doubledays,458,New York-Penn League,127,AUB,1958,New York-Penn League Pinckney,229,Class A Short Season,15,Washington Nationals,Washington Nationals,Falcon Park,2763
+Norwich Sea Unicorns,571,New York-Penn League,127,NOR,1966,New York-Penn League Stedler,230,Class A Short Season,15,Detroit Tigers,Detroit Tigers,Dodd Stadium,2845
+Lowell Spinners,558,New York-Penn League,127,LOW,1996,New York-Penn League Stedler,230,Class A Short Season,15,Boston Red Sox,Boston Red Sox,Edward A. LeLacheur Park,2760
+Vermont Lake Monsters,462,New York-Penn League,127,VER,1961,New York-Penn League Stedler,230,Class A Short Season,15,Athletics,Athletics,Centennial Field,2744
+Batavia Muckdogs,511,New York-Penn League,127,BAT,1939,New York-Penn League Pinckney,229,Class A Short Season,15,Miami Marlins,Miami Marlins,Dwyer Stadium,2758
+DSL CLE Goryl,5506,Dominican Summer League,130,D-CLG,2020,Dominican Summer League North,247,Rookie,16,Cleveland Guardians,Cleveland Guardians,Cleveland Guardians DR Complex,6107
+DSL Astros Orange,5005,Dominican Summer League,130,D-ASO,2014,Dominican Summer League North,247,Rookie,16,Houston Astros,Houston Astros,Academia de Beisbol de Los Astros de Houston,6019
+ACL Angels,404,Arizona Complex League,121,A-ANG,1989,Arizona Complex League Central,570,Rookie,16,Los Angeles Angels,Los Angeles Angels,Tempe Diablo Stadium Complex,6114
+ACL Brewers,406,Arizona Complex League,121,A-BRW,1988,Arizona Complex League Central,570,Rookie,16,Milwaukee Brewers,Milwaukee Brewers,American Family Fields of Phoenix Complex,6121
+ACL Cubs,407,Arizona Complex League,121,A-CUB,1997,Arizona Complex League East,560,Rookie,16,Chicago Cubs,Chicago Cubs,Sloan Park Complex,6115
+ACL Giants,408,Arizona Complex League,121,A-GIA,1991,Arizona Complex League East,560,Rookie,16,San Francisco Giants,San Francisco Giants,Papago Sports Complex,2824
+ACL Mariners,409,Arizona Complex League,121,A-MRN,1989,Arizona Complex League West,561,Rookie,16,Seattle Mariners,Seattle Mariners,Peoria Stadium Complex (SEA),6128
+ACL Padres,410,Arizona Complex League,121,A-PAD,1988,Arizona Complex League West,561,Rookie,16,San Diego Padres,San Diego Padres,Peoria Stadium Complex (SD),6119
+ACL Rangers,411,Arizona Complex League,121,A-RAN,2003,Arizona Complex League West,561,Rookie,16,Texas Rangers,Texas Rangers,Surprise Stadium Complex (TEX),6116
+ACL Royals,412,Arizona Complex League,121,A-ROY,2003,Arizona Complex League West,561,Rookie,16,Kansas City Royals,Kansas City Royals,Surprise Stadium Complex (KC),6125
+ACL Athletics,5426,Arizona Complex League,121,A-ATH,2019,Arizona Complex League East,560,Rookie,16,Athletics,Athletics,Hohokam Stadium Complex,2770
+ACL Dodgers,5427,Arizona Complex League,121,A-DOD,2019,Arizona Complex League Central,570,Rookie,16,Los Angeles Dodgers,Los Angeles Dodgers,Camelback Ranch Complex (LAD),6118
+DSL Pirates Gold,4404,Dominican Summer League,130,D-PIG,2012,Dominican Summer League North,247,Rookie,16,Pittsburgh Pirates,Pittsburgh Pirates,Academia de Beisbol de Los Piratas de Pittsburgh,6010
+DSL Brewers 2,2101,Dominican Summer League,130,D-BW2,1990,Dominican Summer League North,247,Rookie,16,Milwaukee Brewers,Milwaukee Brewers,Milwaukee Brewers DR Complex,6099
+DSL Orioles Orange,3130,Dominican Summer League,130,D-ORO,2009,Dominican Summer League Northwest,249,Rookie,16,Baltimore Orioles,Baltimore Orioles,Baltimore Orioles DR Complex,6110
+DSL Mets Orange,2117,Dominican Summer League,130,D-MEO,1998,Dominican Summer League South,248,Rookie,16,New York Mets,New York Mets,New York Mets DR Complex,6097
+ACL D-backs,1991,Arizona Complex League,121,A-DBA,1996,Arizona Complex League East,560,Rookie,16,Arizona Diamondbacks,Arizona Diamondbacks,Salt River Fields Complex (AZ),6117
+ACL Rockies,1994,Arizona Complex League,121,A-RCK,1993,Arizona Complex League East,560,Rookie,16,Colorado Rockies,Colorado Rockies,Salt River Fields Complex (COL),6126
+DSL Blue Jays 2,1610,Dominican Summer League,130,D-BJ2,1991,Dominican Summer League,130,Rookie,16,Toronto Blue Jays,Toronto Blue Jays,Toronto Blue Jays DR Complex,6088
+DSL Padres Gold,2122,Dominican Summer League,130,D-PAG,1997,Dominican Summer League Northwest,249,Rookie,16,San Diego Padres,San Diego Padres,San Diego Padres DR Complex,6095
+DSL Rays,1611,Dominican Summer League,130,D-RAY,1997,Dominican Summer League West,250,Rookie,16,Tampa Bay Rays,Tampa Bay Rays,Tampa Bay Rays DR Complex,6092
+ACL White Sox,1997,Arizona Complex League,121,A-WSX,1998,Arizona Complex League West,561,Rookie,16,Chicago White Sox,Chicago White Sox,Camelback Ranch Complex (CWS),6127
+FCL Astros,1998,Florida Complex League,124,F-AST,1977,Florida Complex League East,216,Rookie,16,Houston Astros,Houston Astros,CACTI Park of the Palm Beaches Complex (HOU),6084
+DSL Miami,2127,Dominican Summer League,130,D-MIA,1992,Dominican Summer League South,248,Rookie,16,Miami Marlins,Miami Marlins,Miami Marlins DR Complex,6100
+FCL Braves,464,Florida Complex League,124,F-BRV,1966,Florida Complex League South,218,Rookie,16,Atlanta Braves,Atlanta Braves,CoolToday Park Complex,6086
+DSL Royals Fortuna,2128,Dominican Summer League,130,D-ROF,1992,Dominican Summer League North,247,Rookie,16,Kansas City Royals,Kansas City Royals,Kansas City Royals DR Complex,6103
+FCL Nationals,466,Florida Complex League,124,F-NAT,1969,Florida Complex League East,216,Rookie,16,Washington Nationals,Washington Nationals,CACTI Park of the Palm Beaches Complex (WSH),6022
+FCL Rays,2003,Florida Complex League,124,F-RAY,1996,Florida Complex League South,218,Rookie,16,Tampa Bay Rays,Tampa Bay Rays,Charlotte Sports Park Complex,6082
+FCL Marlins,467,Florida Complex League,124,F-MRL,1999,Florida Complex League East,216,Rookie,16,Miami Marlins,Miami Marlins,Roger Dean Stadium Complex (MIA),6083
+DSL Colorado,2131,Dominican Summer League,130,D-COL,1993,Dominican Summer League East,401,Rookie,16,Colorado Rockies,Colorado Rockies,Colorado Rockies DR Complex,6106
+FCL Mets,468,Florida Complex League,124,F-MET,1967,Florida Complex League East,216,Rookie,16,New York Mets,New York Mets,St. Lucie Sports Complex,2849
+DSL Tigers 2,2132,Dominican Summer League,130,D-TI2,1990,Dominican Summer League South,248,Rookie,16,Detroit Tigers,Detroit Tigers,Detroit Tigers DR Complex,6104
+FCL Phillies,469,Florida Complex League,124,F-PHI,1967,Florida Complex League North,217,Rookie,16,Philadelphia Phillies,Philadelphia Phillies,Carpenter Complex,2743
+FCL Pirates,470,Florida Complex League,124,F-PIR,1967,Florida Complex League South,218,Rookie,16,Pittsburgh Pirates,Pittsburgh Pirates,Pirate City Complex,2829
+DSL Giants Black,2134,Dominican Summer League,130,D-GIB,1989,Dominican Summer League Central,246,Rookie,16,San Francisco Giants,San Francisco Giants,Academia De Béisbol Felipe Alou,6020
+FCL Red Sox,471,Florida Complex League,124,F-RSX,1967,Florida Complex League South,218,Rookie,16,Boston Red Sox,Boston Red Sox,JetBlue Park Complex,6085
+FCL Orioles,599,Florida Complex League,124,F-ORI,1967,Florida Complex League South,218,Rookie,16,Baltimore Orioles,Baltimore Orioles,Ed Smith Stadium Complex,6087
+DSL Angels,600,Dominican Summer League,130,D-ANG,1989,Dominican Summer League Central,246,Rookie,16,Los Angeles Angels,Los Angeles Angels,Los Angeles Angels DR Complex,6102
+FCL Tigers,473,Florida Complex League,124,F-TIG,1967,Florida Complex League North,217,Rookie,16,Detroit Tigers,Detroit Tigers,Tigertown Complex,2855
+DSL Astros Blue,601,Dominican Summer League,130,D-ASB,1987,Dominican Summer League West,250,Rookie,16,Houston Astros,Houston Astros,Academia de Beisbol de Los Astros de Houston,6019
+FCL Twins,474,Florida Complex League,124,F-TWI,1966,Florida Complex League South,218,Rookie,16,Minnesota Twins,Minnesota Twins,Lee Health Sports Complex Fields,2519
+FCL Cardinals,1370,Florida Complex League,124,F-CAR,1966,Florida Complex League East,216,Rookie,16,St. Louis Cardinals,St. Louis Cardinals,Roger Dean Stadium Complex (STL),6124
+DSL Athletics,602,Dominican Summer League,130,D-ATH,1987,Dominican Summer League West,250,Rookie,16,Athletics,Athletics,Athletics DR Complex,6094
+FCL Yankees,475,Florida Complex League,124,F-YAN,1966,Florida Complex League North,217,Rookie,16,New York Yankees,New York Yankees,Yankee Complex,2864
+DSL Blue Jays,604,Dominican Summer League,130,D-BLJ,1985,Dominican Summer League Central,246,Rookie,16,Toronto Blue Jays,Toronto Blue Jays,Toronto Blue Jays DR Complex,6088
+DSL Phillies White,5085,Dominican Summer League,130,D-PHW,2016,Dominican Summer League South,248,Rookie,16,Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies DR Complex,6021
+DSL Braves,605,Dominican Summer League,130,D-BRV,1985,Dominican Summer League West,250,Rookie,16,Atlanta Braves,Atlanta Braves,Atlanta Braves DR Complex,6112
+DSL Tampa Bay,5086,Dominican Summer League,130,D-TAM,2016,Dominican Summer League North,247,Rookie,16,Tampa Bay Rays,Tampa Bay Rays,Tampa Bay Rays DR Complex,6092
+DSL Cubs Red,2270,Dominican Summer League,130,D-CUR,2008,Dominican Summer League Northwest,249,Rookie,16,Chicago Cubs,Chicago Cubs,Chicago Cubs Baseball Operations Dominicana LLC,6023
+DSL Arizona Red,5087,Dominican Summer League,130,D-ARR,2016,Dominican Summer League Central,246,Rookie,16,Arizona Diamondbacks,Arizona Diamondbacks,Arizona D-backs DR Complex,6113
+DSL Brewers 1,607,Dominican Summer League,130,D-BW1,1967,Dominican Summer League Northwest,249,Rookie,16,Milwaukee Brewers,Milwaukee Brewers,Milwaukee Brewers DR Complex,6099
+DSL Cardinals,608,Dominican Summer League,130,D-CAR,1987,Dominican Summer League Central,246,Rookie,16,St. Louis Cardinals,St. Louis Cardinals,St. Louis Cardinals DR Complex,6091
+DSL Cubs Blue,609,Dominican Summer League,130,D-CUB,1985,Dominican Summer League North,247,Rookie,16,Chicago Cubs,Chicago Cubs,Chicago Cubs Baseball Operations Dominicana LLC,6023
+DSL Arizona Black,610,Dominican Summer League,130,D-ARB,1996,Dominican Summer League South,248,Rookie,16,Arizona Diamondbacks,Arizona Diamondbacks,Arizona D-backs DR Complex,6113
+DSL LAD Bautista,611,Dominican Summer League,130,D-LAB,1990,Dominican Summer League Northwest,249,Rookie,16,Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Dodgers DR Complex,6101
+DSL LAD Mega,612,Dominican Summer League,130,D-LAM,1989,Dominican Summer League North,247,Rookie,16,Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Dodgers DR Complex,6101
+ACL Reds,3430,Arizona Complex League,121,A-RED,2010,Arizona Complex League Central,570,Rookie,16,Cincinnati Reds,Cincinnati Reds,Goodyear Ballpark Complex (CIN),6129
+DSL Giants Orange,615,Dominican Summer League,130,D-GIO,1987,Dominican Summer League East,401,Rookie,16,San Francisco Giants,San Francisco Giants,Academia De Béisbol Felipe Alou,6020
+DSL CLE Mendoza,616,Dominican Summer League,130,D-CLM,1987,Dominican Summer League Northwest,249,Rookie,16,Cleveland Guardians,Cleveland Guardians,Cleveland Guardians DR Complex,6107
+DSL Mariners,618,Dominican Summer League,130,D-MRN,1985,Dominican Summer League Central,246,Rookie,16,Seattle Mariners,Seattle Mariners,Seattle Mariners DR Complex,6093
+DSL Marlins,619,Dominican Summer League,130,D-MRL,1992,Dominican Summer League East,401,Rookie,16,Miami Marlins,Miami Marlins,Miami Marlins DR Complex,6100
+DSL Rojos,2412,Dominican Summer League,130,D-ROJ,2008,Dominican Summer League Northwest,249,Rookie,16,Cincinnati Reds,Cincinnati Reds,Cincinnati Reds DR Complex,6105
+DSL Mets Blue,620,Dominican Summer League,130,D-MEB,1987,Dominican Summer League East,401,Rookie,16,New York Mets,New York Mets,Academia de Beisbol de los Metros de Nueva York (1),6011
+DSL Rangers Red,2413,Dominican Summer League,130,D-RNR,2008,Dominican Summer League South,248,Rookie,16,Texas Rangers,Texas Rangers,Texas Rangers DR Complex,6090
+DSL Orioles Black,621,Dominican Summer League,130,D-ORB,1985,Dominican Summer League West,250,Rookie,16,Baltimore Orioles,Baltimore Orioles,Baltimore Orioles DR Complex,6110
+FCL Blue Jays,1390,Florida Complex League,124,F-BLU,1981,Florida Complex League North,217,Rookie,16,Toronto Blue Jays,Toronto Blue Jays,Bobby Mattick Complex,4569
+DSL Padres Brown,622,Dominican Summer League,130,D-PAB,1987,Dominican Summer League West,250,Rookie,16,San Diego Padres,San Diego Padres,San Diego Padres DR Complex,6095
+DSL Phillies Red,623,Dominican Summer League,130,D-PHR,1985,Dominican Summer League East,401,Rookie,16,Philadelphia Phillies,Philadelphia Phillies,Philadelphia Phillies DR Complex,6021
+DSL Pirates Black,624,Dominican Summer League,130,D-PIB,1985,Dominican Summer League Northwest,249,Rookie,16,Pittsburgh Pirates,Pittsburgh Pirates,Academia de Beisbol de Los Piratas de Pittsburgh,6010
+DSL Rangers Blue,625,Dominican Summer League,130,D-RNB,1987,Dominican Summer League East,401,Rookie,16,Texas Rangers,Texas Rangers,Texas Rangers DR Complex,6090
+DSL Red Sox Blue,626,Dominican Summer League,130,D-RSB,2003,Dominican Summer League North,247,Rookie,16,Boston Red Sox,Boston Red Sox,Boston Red Sox DR Complex,6111
+DSL Red Sox Red,627,Dominican Summer League,130,D-RSR,2000,Dominican Summer League West,250,Rookie,16,Boston Red Sox,Boston Red Sox,Boston Red Sox DR Complex,6111
+DSL Reds,628,Dominican Summer League,130,D-RED,1996,Dominican Summer League West,250,Rookie,16,Cincinnati Reds,Cincinnati Reds,Cincinnati Reds DR Complex,6105
+DSL Rockies,629,Dominican Summer League,130,D-RCK,1985,Dominican Summer League South,248,Rookie,16,Colorado Rockies,Colorado Rockies,Colorado Rockies DR Complex,6106
+DSL Nationals,1270,Dominican Summer League,130,D-NAT,1987,Dominican Summer League Central,246,Rookie,16,Washington Nationals,Washington Nationals,Washington Nationals DR Complex,6089
+DSL Royals Ventura,630,Dominican Summer League,130,D-ROV,1985,Dominican Summer League West,250,Rookie,16,Kansas City Royals,Kansas City Royals,Kansas City Royals DR Complex,6103
+DSL Tigers 1,631,Dominican Summer League,130,D-TI1,1987,Dominican Summer League East,401,Rookie,16,Detroit Tigers,Detroit Tigers,Detroit Tigers DR Complex,6104
+DSL Twins,632,Dominican Summer League,130,D-TWI,1985,Dominican Summer League South,248,Rookie,16,Minnesota Twins,Minnesota Twins,Minnesota Twins DR Complex,6098
+DSL White Sox,633,Dominican Summer League,130,D-WSX,1999,Dominican Summer League Central,246,Rookie,16,Chicago White Sox,Chicago White Sox,Chicago White Sox DR Complex,6108
+DSL NYY Bombers,634,Dominican Summer League,130,D-NYB,1985,Dominican Summer League East,401,Rookie,16,New York Yankees,New York Yankees,New York Yankees DR Complex,6096
+DSL NYY Yankees,635,Dominican Summer League,130,D-NYY,2002,Dominican Summer League South,248,Rookie,16,New York Yankees,New York Yankees,New York Yankees DR Complex,6096
+ACL Guardians,5374,Arizona Complex League,121,A-GUA,2018,Arizona Complex League Central,570,Rookie,16,Cleveland Guardians,Cleveland Guardians,Goodyear Ballpark Complex (CLE),6120
